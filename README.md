@@ -4,4 +4,4 @@ This is a wiki about Ness in SSBM. If you'd like to contribute, please join the 
 
 This wiki is currently quite bare, but here's something to start off with:
 
-- [[Yo-Yo Glitch|yoyo-glitch]]
+- [[yoyo-glitch|Yo-Yo Glitch]]
