@@ -13,6 +13,10 @@ down-smash yoyo attacks.
 
 TODO: fill out this section, and improve everything about this page.
 
+You can activate it on any hurtbox, not just opponents directly. This
+includes shiek needles that have scattered, link/ylink arrows or bombs,
+fly guys.
+
 Once you've dropped the hitbox, there are several things you
 can do with it.
 
@@ -50,6 +54,10 @@ you died until you respawn.
 
 You can refresh the hitbox by doing another upsmash and hitting an opponent
 with it or something.
+
+## Usage in Doubles
+
+TODO: fill this section.
 
 ## When To Use
 
