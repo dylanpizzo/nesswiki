@@ -8,7 +8,7 @@ fly guys.
 
 ## Edge Cancel PK Fire (ECPKF)
 
-Usually PK Fire has 30 frames of landing lag from the aerial version, but using momentum from a DJC PK fire to land on either the edge of a platform or a stage you can cancel it by sliding off or teetering.
+Usually PK Fire has 30 frames of landing lag from the aerial version, but using momentum from a [[djc|DJC]] PK fire to land on either the edge of a platform or a stage you can cancel it by sliding off or teetering.
 
 The most consistent way to set it up is wavedashing off a platform then double jumping forward and then using PK Fire. This works on every stage with platforms besides battlefield.
 
