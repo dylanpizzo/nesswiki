@@ -11,7 +11,9 @@ Ness is one of only four characters in the game with the ability to [[djc|Double
 
 Ness also has sole access to the [[yyg|Yo-Yo Glitch]].
 
-His special moves include [[pk-flash|PK Flash]], [[pk-thunder|PK Thunder]], [[pk-fire|PK Fire]], and [[psi-magnet|Psi Magnet]].
+His special moves include [[pk-flash|PK Flash]], [[pk-thunder|PK Thunder]], [[pk-fire|PK Fire]], and [[psi-magnet|Psi Magnet]]. His [[dash-attack|Dash Attack (PK Shove)]] is also very quirky.
+
+Surprisingly, Ness is able to do fully invincible Hax Dashes, however, that is near impossible without notches or playing on a boxx controller.
 
 ---
 
