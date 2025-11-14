@@ -1,3 +1,5 @@
 # Double Jump Cancel
 
 Ness is one of only four characters in the game with the ability to Double Jump Cancel (DJC for short). The others being Peach who also has float, Yoshi who has double jump armor, and Mewtwo. His access to double jump cancel allows him to perform a technique known as [[psi-dash|Psi Dashing]].
+
+DJC can be used to control the height of every air move Ness can do. Most importantly it allows for him to have greater control with his aerials. To do a DJC all you have to do is input a double jump and then during the double jump you input an aerial or special move. When quickly doing DJCs Ness stops moving upwards entirely and allows you to do fast falls which helps Ness juggle fast falling characters easily. There’s also different use cases for DJC aerials. Sometimes you want to do them as fast as possible to juggle and maybe sometimes you want to do a FH (full hop) then DJC at the apex of the FH to throw your opponent off. With the many different heights of being able to use DJC there's so many use cases.

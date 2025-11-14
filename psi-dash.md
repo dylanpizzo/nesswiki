@@ -1,3 +1,3 @@
 # Psi Dash
 
-Psi Dashing is a technique that involves [[djc|Double Jump Cancelling]] usually with a down-air. It can be used similarly to a wavedash/waveland.
+PSI-dashing is a technique by using [[djc|DJC]] d-air and fast falling before the move comes out to auto-cancel it. It can be used as an alternative to wavelanding/dashing and is, most of the time, even faster than those other options.
