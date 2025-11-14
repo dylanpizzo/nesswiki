@@ -1,4 +1,4 @@
-# Dash Attack and PK Shove
+# Dash Attack (PK Shove)
 
 Ness has a very weird and overly complex dash attack. 
 
