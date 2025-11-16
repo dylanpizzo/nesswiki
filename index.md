@@ -15,6 +15,8 @@ His special moves include [[pk-flash|PK Flash]], [[pk-thunder|PK Thunder]], [[pk
 
 Surprisingly, Ness is able to do fully invincible Hax Dashes, however, that is near impossible without notches or playing on a boxx controller.
 
+Another awesome resource: [Onett | The SSBM Ness Resource | W.I.P.](https://docs.google.com/spreadsheets/d/19E-FUIvBxitYfNYTz-zeY6fSii3to9FijPMgjuYxTC0/edit?gid=0#gid=0)
+
 ---
 
 This is a wiki about Ness in SSBM. If you'd like to contribute, please join the [Nesscord](https://discord.gg/011MSaTVv85tRjQWO) and let us know you'd like to contribute.
