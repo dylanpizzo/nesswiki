@@ -1,3 +1,12 @@
 # Psi Dash
 
 PSI-dashing is a technique by using [[djc|DJC]] d-air and fast falling before the move comes out to auto-cancel it. It can be used as an alternative to wavelanding/dashing and is, most of the time, even faster than those other options.
+
+- Movement technique used mainly for positioning and defense that uses the generous auto-cancel window on Dair combined with his DJ properties to quickly shift sideways, downwards, or a combination of the two.
+- This allows him to quickly board platforms, bail out of forward jumps, cut his jump short to return to the ground, micro space, exit shield a bit sooner than if he’d WDed, and more!!
+- Functions in a similar way to Peach’s slapdash and DJL.
+- Can be done with Fair Bair Uair and Nair too, but he faces restrictions with how much distance he can travel based on their smaller AC windows.
+- Psi Land refers to usage where there’s little to no discernible motion sideways or downwards (e.g. DJ Dair to board platform, or using Dair to exit tumble right before landing).
+- Offensively, the lack of hitbox can be limiting, but it can work as a tomahawk (empty land into grab) and generally completes sooner than a wave-land by 5 frames, which makes it well suited for platform tech chases. Helps him threaten jump forward Fair by giving him a way to back out of it before swinging, and look for preemptive actions from his opponent: this includes dash back, which can sometimes allow for overshoots (e.g. Psi Dash forward immediate Dash Attack). In more open spaces, it is typically used as a way to exit or avoid being caught in his opponent’s danger zones.
+- Depending on the position and amount of space you are traveling, it’s worth considering if Nair (or another aerial) might be offering better protection overall. I mention Nair though because it ACs if we land after 26, and has a hitbox from 5-23. By comparison, Psi Dash needs us to land on 19 or earlier. If we’re edgeguarding and need to return to stage efficiently as part of what we’re doing, those properties can often be more useful. There’s a sweetspot for Psi Dash’s usefulness in terms of travel time; just because you can be moving for 18f during it doesn’t mean you necessarily should.
+- Psi Dash with his d-air can be good for conditioning. Cause people look for the yell he does and shield which can lead into, like you said in the offensive section, empty land into grab.
