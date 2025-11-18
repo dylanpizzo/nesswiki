@@ -15,6 +15,10 @@ His special moves include [[pk-flash|PK Flash]], [[pk-thunder|PK Thunder]], [[pk
 
 Surprisingly, Ness is able to do fully invincible Hax Dashes, however, that is near impossible without notches or playing on a boxx controller.
 
+Everything on this wiki assumes the 1.02 NTSC version of Melee unless otherwise stated. There are a few [[ness-in-other-versions|differences in Ness between the versions]].
+
+Ness has some cool stuff he can do in [[doubles]].
+
 Another awesome resource: [Onett | The SSBM Ness Resource | W.I.P.](https://docs.google.com/spreadsheets/d/19E-FUIvBxitYfNYTz-zeY6fSii3to9FijPMgjuYxTC0/edit?gid=0#gid=0)
 
 ---
